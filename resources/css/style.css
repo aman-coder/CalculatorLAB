@@ -1,0 +1,38 @@
+*{ font-family: 'Josephin Sans', sans-serif;}
+.nav-wrapper{
+    background-color:brown;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+main {
+    flex: 1 0 auto;
+}
+.logo{
+    display: inline-block;
+    height:100%;
+}
+.logo>img{
+    max-height: 74px!important;
+    padding: 14px 0!important;
+}
+.page-footer{
+    background-color:brown;
+}
+/* header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.img{
+	height: 100%;
+	bredth: 100%;
+}
+footer {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 10px;
+    text-align: center;
+} */
